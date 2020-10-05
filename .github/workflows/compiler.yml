@@ -17,7 +17,7 @@ on:
 
 env:
   KERNEL_SOURCE: https://github.com/royalturd/Mia_kernel_project.git
-  BRANCH: q-318-caf
+  BRANCH: experimental
   DEFCONFIG: rosy_defconfig
   TZ: Asia/Kolkata
   MIR: bit
